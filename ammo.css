@@ -1,0 +1,40 @@
+﻿#main {
+    text-align: left;
+    font-family: "Roboto Condensed","Open Sans","Helvetica Neue", Helvetica, Arial,"Hiragino Sans GB","Microsoft YaHei","微软雅黑","STHeiti","WenQuanYi Micro Hei",SimSun, sans-serif;
+}
+
+p {
+    max-width: 100%;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 33px;
+}
+
+p.title {
+    margin-top: 24px;
+    color: rgb(255, 159, 64);
+}
+
+p.detail {
+    color: rgb(17, 17, 17);
+    margin-top: -10px;
+    font-size: 16px;
+    font-weight: normal;
+}
+
+p.tips {
+    font-size: 16px;
+}
+
+p.contact {
+    margin-top: 50px;
+    color: rgb(17, 17, 17);
+}
+
+p.contact a {
+    color: #4351ad;
+}
+
+p.contact a:hover {
+    color: #1d2347;
+}
